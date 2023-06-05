@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/chillingchandan" target="blank"><img src="https://img.shields.io/twitter/follow/chillingchandan?logo=twitter&style=for-the-badge" alt="chillingchandan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/code_chandan" target="blank"><img src="https://img.shields.io/twitter/follow/code_chandan?logo=twitter&style=for-the-badge" alt="Chandan Kumar" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
