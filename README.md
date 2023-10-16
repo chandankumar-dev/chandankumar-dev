@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://www.codewithchandan.co/](https://www.codewithchandan.co/)
+- 👨‍💻 All of my projects are available at [https://www.chandankumar.vercel.app/](https://chandankumar.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Vue.js and Frontend in general**
 
 - 📫 How to reach me **Mishr0404@gmail.com**
 
-- 📄 Know about my experiences [https://www.codewithchandan.co/](https://www.codewithchandan.co/)
+- 📄 Know about my experiences [https://www.chandankumar.vercel.app/](https://chandankumar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
